@@ -10,3 +10,5 @@ https://thispersondoesnotexist.com/
 -(GERAÇÃO DE IMAGENS) I.A. DO ELON MUSK DESENHA TUDO QUE VOCÊ QUISER | Dall-E 2 - https://www.youtube.com/watch?v=z_38fDp9Xzw
 
 -(EDIÇÃO DE IMAGENS) NVIDIA's New AI: Next Level Image Editing! - https://www.youtube.com/watch?v=cS4jCvzey-4
+
+-(Photos into 3D) Turn Photos into 3D Scenes in Milliseconds ! - https://www.youtube.com/watch?v=UHQZBQOVAIU
