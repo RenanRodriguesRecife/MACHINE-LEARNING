@@ -14,3 +14,5 @@ OpenAI DALL·E 2: Top 10 Insane Results! - https://www.youtube.com/watch?v=X3_LD
 -(EDIÇÃO DE IMAGENS) NVIDIA's New AI: Next Level Image Editing! - https://www.youtube.com/watch?v=cS4jCvzey-4
 
 -(Photos into 3D) Turn Photos into 3D Scenes in Milliseconds ! - https://www.youtube.com/watch?v=UHQZBQOVAIU
+
+-(Inserção de Texto) OpenAI’s New AI Writes The Story Of Your Life! - https://www.youtube.com/watch?v=0YypAl8mBsY
