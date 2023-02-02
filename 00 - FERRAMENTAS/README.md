@@ -29,3 +29,9 @@ Criatividade
 ```
 criatividade: seria indetificar padrões e saber quando queralos?
 ```
+
+
+prompt
+
+https://www.youtube.com/watch?v=xeEw-R35ocU
+
